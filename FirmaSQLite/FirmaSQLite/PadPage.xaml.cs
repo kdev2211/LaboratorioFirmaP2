@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace FirmaSQLite
+{
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class PadPage : ContentPage
+    {
+        public PadPage()
+        {
+            InitializeComponent();
+        }
+
+      
+
+
+
+        private async void SaveBtn_Clicked(object sender, EventArgs e)
+        {
+   
+            Stream image = await MainSignaturePad.GetImageStreamAsync(SignaturePad.Forms.SignatureImageFormat.Png);
+   
+
+
+            var mStream = (MemoryStream)image;
+            byte[] data = mStream.ToArray();
+
+
+   
+
+            var signature = new Firmas
+            {
+                FirmaContent = data,
+                nombreFirma = nombre.Text,
+                descripcionFirma = descripcion.Text
+
+            };
+
+
+            Task<int> resultado = App.InstanciaDB.InsertarFirma(signature);
+            await DisplayAlert("Advertencia", "Firma Guardada en SQLite Exitosamente", "OK");
+
+            await Navigation.PopAsync();
+        }
+
+
+        private async void ListaFirmas_ItemTapped(object sender, ItemTappedEventArgs e)
+        {
+
+
+
+
+        }
+    }
+}

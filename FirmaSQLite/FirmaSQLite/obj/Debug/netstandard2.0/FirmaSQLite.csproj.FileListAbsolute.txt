@@ -1,0 +1,16 @@
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\bin\Debug\netstandard2.0\FirmaSQLite.deps.json
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\bin\Debug\netstandard2.0\FirmaSQLite.dll
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\bin\Debug\netstandard2.0\ref\FirmaSQLite.dll
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\bin\Debug\netstandard2.0\FirmaSQLite.pdb
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\FirmaSQLite.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\FirmaSQLite.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\FirmaSQLite.AssemblyInfo.cs
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\FirmaSQLite.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\FirmaSQLite.dll
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\ref\FirmaSQLite.dll
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\FirmaSQLite.pdb
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\PadPage.xaml.g.cs
+C:\Users\usuario\source\repos\FirmaSQLite\FirmaSQLite\FirmaSQLite\obj\Debug\netstandard2.0\firmasPage.xaml.g.cs
